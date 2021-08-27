@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Core.Entities
 {
-    public class Product : Entity
+    public class Products : Entity
     {
         public string Name { get; set; }
 
